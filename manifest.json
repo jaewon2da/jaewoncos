@@ -1,0 +1,16 @@
+{
+  "name": "협력업체 등록평가",
+  "short_name": "등록평가",
+  "description": "화장품 협력업체 신규처 현장평가 기록/관리",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EAF2FC",
+  "theme_color": "#1B5FC1",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
